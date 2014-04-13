@@ -1,0 +1,1 @@
+At the moment, this is just another fork of Popcorn Time. Updates will follow.
